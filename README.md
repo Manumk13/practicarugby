@@ -2,4 +2,4 @@
 
 - Consta de nueve clases y dos enumeraciones
 
-
+- los metodos estan implementados pero no son funcionales
